@@ -1,0 +1,5 @@
+{
+  "plugins": ["react"],
+  "categories": { "correctness": "error" },
+  "env": { "browser": true, "es2022": true }
+}
